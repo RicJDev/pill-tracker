@@ -1,25 +1,38 @@
-<div align="center">
-<h1>Pill Tracker (Web App)</h1>
-</div>
+<h1 align="center">Pill Tracker (Web App)</h1>
 
 > **Fecha de lanzamiento:** por definir
 
-## Introducción
-
-### Descripción
+## Propósito y objetivos generales
 
 Texto...
 
-### Propósito
+## Descripción
 
 Texto...
 
-### Objetivo
+### Funcionalidades
+
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
+- Funcionalidad 4
+
+### Páginas
+
+Página 1
+[insertar imagen]
+
+Página 2
+[insertar imagen]
+
+Página 3
+[insertar imagen]
+
+### Enrutamiento
 
 Texto...
 
-<!--
-## Cronograma
+## Fechas
 
 - **Fecha 1:** evento 1...
 - **Fecha 2:** evento 2...
@@ -41,13 +54,6 @@ Texto...
 ### Usuarios
 
 Texto...
--->
-
-### Funcionalidades
-
-### Páginas
-
-### Enrutamiento
 
 ## Equipo de desarrollo
 
