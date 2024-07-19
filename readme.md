@@ -1,6 +1,6 @@
-<h1 align="center">Pill Tracker (Web App)</h1>
-
 > **Fecha de lanzamiento:** por definir
+
+<h1 align="center">Pill Tracker (Web App)</h1>
 
 ## Propósito y objetivos generales
 
